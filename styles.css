@@ -148,6 +148,7 @@ li {
 
 .btn {
   width: 100%;
+  font-weight: var(--fontWeight--heavy);
   background-color: var(--brightYellow);
   border-radius: 6px;
   padding: 12px 24px;

@@ -102,7 +102,7 @@ li {
 /*******************************/
 
 .component {
-  max-width: 700px;
+  max-width: 650px;
   box-shadow: 10px 10px 80px var(--lightGray);
   border-radius: 8px;
   overflow: hidden;

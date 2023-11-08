@@ -4,7 +4,7 @@
 
 :root {
   --cyan: hsl(179, 62%, 43%);
-  --lightCyan: hsla(179, 62%, 43%, 0.7);
+  --lightCyan: hsla(179, 62%, 43%, 0.8);
   --brightYellow: hsl(71, 73%, 54%);
 
   --white: #fff;

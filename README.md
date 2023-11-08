@@ -20,9 +20,8 @@ The challenge was to build a responsive layout to show a single price grid compo
 
 ### Screenshot
 
-<img src="./images/single-price-grid-mobile-screenshot.jpg" height="350px" />
-
 ![Desktop single price grid screenshot](./images/single-price-grid-desktop-screenshot.jpg)
+<img src="./images/single-price-grid-mobile-screenshot.jpg" height="350px" />
 
 ### Links
 
